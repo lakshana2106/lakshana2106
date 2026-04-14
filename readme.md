@@ -1,6 +1,26 @@
-# # 👋 Hi, I'm Lakshana R
+<h1 align="center">
+  👋 Hi, I'm Lakshana R
+</h1>
 
-🚀 AI Enthusiast | Problem Solver  
+<h3 align="center">
+  🤖 AI & Data Science Student | Sri Eshwar College of Engineering
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshana2106&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/lakshana2106?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
+## 💡 About Me
+
+I'm Lakshana R, an AI & Data Science student at Sri Eshwar College of Engineering, passionate about building intelligent and impactful solutions.
+
+I’m deeply interested in Artificial Intelligence, Machine Learning, and Generative AI, with a focus on solving real-world problems through data-driven approaches.
+
+I enjoy developing full-stack applications and AI-powered systems using modern tools and frameworks like Python, FastAPI, and LangChain.
+
+I’m continuously improving my problem-solving and analytical skills through hands-on projects and coding practice.
+
+*"Turning ideas into intelligent solutions through code and creativity."*
 
 ## 💼 Experience
 
