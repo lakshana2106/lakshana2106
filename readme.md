@@ -11,10 +11,15 @@ Artificial Intelligence & Data Science Student
 ## 🛠️ Skills
 
 **Languages:** C, C++, Java, Python
+
 **Frameworks:** Streamlit, FastAPI, Django, LangChain, PyTorch
+
 **AI/ML:** NLP, Deep Learning, Neural Networks, Predictive Modeling, Generative AI
+
 **Automation:** n8n, LangGraph
+
 **Databases:** MySQL, MongoDB, ChromaDB
+
 **Tools:** Git, GitHub, VS Code, Postman, Colab, Jupyter
 
 ## 🌐 Profiles
