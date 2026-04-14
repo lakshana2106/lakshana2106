@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=lakshana2106&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/lakshana2106?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
+
 ## 💡 About Me
 
 I'm Lakshana R, an AI & Data Science student at Sri Eshwar College of Engineering, passionate about building intelligent and impactful solutions.
