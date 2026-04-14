@@ -1,6 +1,6 @@
-# Lakshana R
+# # 👋 Hi, I'm Lakshana R
 
-Artificial Intelligence & Data Science Student
+🚀 AI Enthusiast | Problem Solver  
 
 ## 💼 Experience
 
