@@ -2,8 +2,6 @@
 
 Artificial Intelligence & Data Science Student
 
- ---
-
 ## 💼 Experience
 
 * AI/ML Intern — Internpe
