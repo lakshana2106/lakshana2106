@@ -2,47 +2,24 @@
 
 Artificial Intelligence & Data Science Student
 
----
+ ---
 
-## Experience
+## 💼 Experience
 
 * AI/ML Intern — Internpe
 * MERN Stack Intern — ZSOFT
-* AI Agent Development using LangChain & OpenAI
+* AI Agent Development (LangChain, OpenAI)
 
----
+## 🛠️ Skills
 
-## Projects
+**Languages:** C, C++, Java, Python
+**Frameworks:** Streamlit, FastAPI, Django, LangChain, PyTorch
+**AI/ML:** NLP, Deep Learning, Neural Networks, Predictive Modeling, Generative AI
+**Automation:** n8n, LangGraph
+**Databases:** MySQL, MongoDB, ChromaDB
+**Tools:** Git, GitHub, VS Code, Postman, Colab, Jupyter
 
-* Drishya Yatra — ISL Sign Language Converter
-* Blockchain-Based Voting System
-* Smart Step — Health Monitoring Device
-
----
-
-## Skills
-
-**Programming Languages:**
-C, C++, Java, Python
-
-**Frameworks & Libraries:**
-Streamlit, FastAPI, Django, LangChain, RAG, PyTorch
-
-**AI/ML & Data Science:**
-Supervised & Unsupervised Learning, NLP, Deep Learning, Neural Networks, Predictive Modeling, Generative AI (LLMs, Ollama)
-
-**Orchestration & Automation:**
-n8n, LangGraph
-
-**Databases:**
-MySQL, MongoDB, ChromaDB
-
-**Tools & Platforms:**
-Git, GitHub, VS Code, Postman, Google Colab, Jupyter Notebook, Kaggle, Cursor
-
----
-
-## Profiles
+## 🌐 Profiles
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github\&logoColor=white)](https://github.com/lakshana2106)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lakshana-r-870534293/)
